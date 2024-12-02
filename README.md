@@ -9,6 +9,9 @@ Paula Magdy Ragheb
 git push origin :branch_name
 git branch -d branch_name
 
+# How to checkout another branch without commit changes
+git stash
+
 # How to list tags
 git tag
 
