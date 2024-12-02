@@ -20,4 +20,4 @@ git tag -d v1.7
 git push origin --delete v1.7
 
 # Image
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/6/62/Git-logo-orange.svg)
+![Git_Img](https://upload.wikimedia.org/wikipedia/commons/6/62/Git-logo-orange.svg)
